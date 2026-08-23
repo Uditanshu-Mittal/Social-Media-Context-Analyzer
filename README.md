@@ -1,4 +1,5 @@
 # Social Media Content Analyzer
+[Live Demo](https://social-media-context-analyzer.vercel.app/)
 
 A web-based application that analyzes social media content from text, PDFs, and images and provides measurable insights and improvement suggestions for creating clearer, more engaging, and platform-appropriate posts.
 
