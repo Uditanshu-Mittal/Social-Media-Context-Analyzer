@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Content Analyzer",
+  "description": "Upload PDF, JPG, JPEG, and PNG files to extract text via client-side OCR and PDF parsing, calculate engagement scores, sentiment analysis, and generate actionable social media improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
